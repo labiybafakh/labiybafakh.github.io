@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: justify
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Labiyb!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a final-year PhD student at Department of Mechanical Systems Engineering of Tokyo Metropolitan University, advised by Professor Naoyuki Takesue. My research interest is developing and enhancing capability of an ornithopter mimicking a real bird. I participated and 3rd place on World Robot Summit @IFAC 2023 on Customer Interacton Task using a service robot. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2018, I graduated from Politeknik Elektronika Negeri Surbaya with Bachelor of Engineering in Computer Engineering. During my bachelor, I participated on some competitions to shape my skills in robotics. I won Indonesian Robocon 2016 and 2nd Runner-up on ABU Robocon 2016. My undergraduate thesis is navigation on omnidirectional mobile robot implemented on a soccer robot.
+
+In 2021, I gradauted from Tokyo Metropolitan University with Master of Engineering in Mechanical Systems Engineering. In the begining of master course, I joined World Robot Summit Trial Competition 2019 in Tokyo, Japan. My master thesis is investigation and development of a flapping robot with tail control. 
+
+I want to utilize expertise in Embedded Systems, Mechatronics, and Robotics to create innovative and impactful
+solution for society.
+
