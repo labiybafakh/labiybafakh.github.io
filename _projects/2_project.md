@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: ABU Robocon 2016
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
@@ -8,11 +8,11 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this project, I and my team were trying to build mobile robot to handle or to solve the
+tasks. We built 2 autonomous robot with different size, the small robot could not move by itself and has only a
+steering mechanism. Several iteration of robot development from scratch were done.The bigger robot has to drive the
+small robot without making contact. After the robot is succeeded to drive the small robot, the bigger robot should
+pick the propeller that is mounted on small robot, climb a pole, and place the propeller on the pole.
 
     ---
     layout: page

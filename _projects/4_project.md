@@ -7,9 +7,14 @@ importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project worked with an unmanned water vehicle
+to complete a task. I became the head of this project to manage or to organize the team working as the desired. It
+participated in Unmanned Surface Vehicle(USV) Contest 2016. We built catamaran and monohull boats using balsa
+wood. The USVs navigate autonomously using a feedback information from a camera. It used a basic concept of
+computer vision to detect the color and calculate theta of colored balls. There are color-coded balls arranged on the
+edges of the path. These balls serve as boundary markers for autonomous navigation using cameras. By using the
+visual servoing, the robot can navigate to stay on the track.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
