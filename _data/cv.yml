@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Muhammad Labiyb Afakh
+    - name: E-mail
+      value: labiybafakh@gmail.com
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
@@ -32,6 +34,14 @@
         - title: Relevant Courses
           contents: Embedded System, Robot System Control, Computer Vision, Intelligent System, Robotic and Automation, and Real Time Operating System.
         #   -
+
+- title: Skills
+  type: time_table
+  contents:
+    - title: Technical Skills
+      description: CAD, CAM, EDA, C, C++, Python(PyTorch), Rust, ROS1/ROS2
+    - title: Languages
+      description: Indonesian, English
 
 - title: Experience
   type: time_table
