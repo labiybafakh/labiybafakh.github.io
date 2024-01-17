@@ -25,3 +25,5 @@ are connected via serial communication.
 data acquisition. The collected data from teensy is sent to the PC using created serial communication protocol
 in a low-latency. There is a node to handle the data to be integrated with another ROS2 sub-system or IPC
 through shared-memory. A local 5G connectivity will be developed to support long-distance control.
+
+Repositories of this project is [High level](https://github.com/labiybafakh/OrnibiBot) [low-level](https://github.com/labiybafakh/OrnibiBotMicro)

@@ -17,4 +17,4 @@ localization and mapping(SLAM). It is used for robot to navigate to the desired 
 data distribution is handled by using ROS
 
 
-A video during training can be accessed [here](https://youtu.be/HdMWXK-xAiU?si=u5HnHmhSTM-k22lH)
+A video during training can be accessed [here](https://youtu.be/HdMWXK-xAiU?si=u5HnHmhSTM-k22lH) . A repository of this project is [here](https://github.com/labiybafakh/WRS2023)
