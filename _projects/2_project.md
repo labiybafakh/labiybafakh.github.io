@@ -18,7 +18,7 @@ pick the propeller that is mounted on small robot, climb a pole, and place the p
     {% include figure.html path="assets/img/hybrid.jpeg" title="A hybrid robot" class="img-fluid rounded z-depth-1" %}
 </div>
 
-That figure shows the robot that I worked on.
+That figure shows the robot that I worked on. By using rotary encoder feedback, odometry and inertial data are collected. Those data is used for path tracking on low-level controller using STM32F4. To put and place propeller on the pole, some dynamixel servos are used on the first prototype that could achieve 36s to finish the task. The improvement on lastest robot could achieve 18s.
 
 <div class="row mt-3">
     <div class="col-md mt-3 mt-md-0">

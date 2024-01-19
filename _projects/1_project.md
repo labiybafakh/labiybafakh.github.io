@@ -27,8 +27,7 @@ through shared-memory. A local 5G connectivity will be developed to support long
 
 Repositories of this project is [High level](https://github.com/labiybafakh/OrnibiBot) [low-level](https://github.com/labiybafakh/OrnibiBotMicro)
 
-<!-- <div class="row mt-3">
-    {% include video.html path="https://www.youtube.com/watch?v=8nfgbyg1_oo" class="img-fluid rounded z-depth-1" %}
-</div> -->
 
-
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.html path="assets/video/agressive.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+</div>
