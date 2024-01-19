@@ -8,8 +8,7 @@ category: work
 related_publications: no
 ---
 
-This project develops an
-ornithopter that can be a helpful robot for future in the society. This project is a part of my academic path from
+This project develops an ornithopter that can be a helpful robot for future in the society. This project is a part of my academic path from
 master student to PhD student(now).
 
 • I built my robot from scratch. I designed and manufactured the mechanism and electrical circuit board. I also
@@ -27,3 +26,9 @@ in a low-latency. There is a node to handle the data to be integrated with anoth
 through shared-memory. A local 5G connectivity will be developed to support long-distance control.
 
 Repositories of this project is [High level](https://github.com/labiybafakh/OrnibiBot) [low-level](https://github.com/labiybafakh/OrnibiBotMicro)
+
+<!-- <div class="row mt-3">
+    {% include video.html path="https://www.youtube.com/watch?v=8nfgbyg1_oo" class="img-fluid rounded z-depth-1" %}
+</div> -->
+
+

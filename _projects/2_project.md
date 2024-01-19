@@ -19,3 +19,12 @@ pick the propeller that is mounted on small robot, climb a pole, and place the p
 </div>
 
 That figure shows the robot that I worked on.
+
+<div class="row mt-3">
+    <div class="col-md mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/Ll8ZcT_aOW8?si=UuNZS9nN2fH0BkT9&amp;clip=UgkxmNU55ptEfDosXZGR8ya3rX0tE2gxZU7f&amp;clipt=ENKNlAwY15uWDA" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/hlAESUCWL_Y?si=53hWgJ2ngytJbNc_" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

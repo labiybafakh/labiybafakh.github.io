@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Unmanned Surface Vehicle(USV)
-description: another without an image
-img:
+# description: another without an image
+img: assets/img/kkctbn.png
 importance: 3
 category: work
 ---
@@ -15,4 +15,8 @@ computer vision to detect the color and calculate theta of colored balls. There 
 edges of the path. These balls serve as boundary markers for autonomous navigation using cameras. By using the
 visual servoing, the robot can navigate to stay on the track.
 
+
+<div class="col-lg mt-3 mt-md-0">
+    {% include video.html path="https://www.youtube.com/embed/57s4wn9aknU?si=jgRLwl_JJ6G0H04b" class="img-fluid rounded z-depth-0" %}
+</div>
 

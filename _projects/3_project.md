@@ -20,3 +20,11 @@ the overshoot. Robotics Operating System(ROS) utilize the robustness of system t
 
 A repository of this project is [here](https://github.com/labiybafakh/FuzzyBicyclePathTracking)
 
+
+<!-- <div class="col-sm mt-2 mt-md-0"> -->
+<!-- {% include video.html path="https://www.youtube.com/embed/8nfgbyg1_oo?si=xo37-fjSHm0PutoW&amp;controls=0" class="img-fluid rounded z-depth-0" %} -->
+<!-- </div> -->
+
+<div class="col-lg mt-3 mt-md-0">
+    {% include video.html path="https://www.youtube.com/embed/8nfgbyg1_oo?si=xo37-fjSHm0PutoW&amp;controls=0" class="img-fluid rounded z-depth-0" %}
+</div>
