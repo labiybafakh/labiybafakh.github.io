@@ -18,9 +18,13 @@ the overshoot. Robotics Operating System(ROS) utilize the robustness of system t
 
 A repository of this project is [here](https://github.com/labiybafakh/FuzzyBicyclePathTracking)
 
-<div class="col-lg mt-3 mt-md-0">
+### Navigation Video
+<div class="col-sm mt-3 mt-md-0" style="max-width: 320px; margin:auto;">
     {% include video.html path="https://www.youtube.com/embed/8nfgbyg1_oo?si=xo37-fjSHm0PutoW&amp;controls=0" class="img-fluid rounded z-depth-0" %}
 </div>
 
-{% include figure.html path="assets/img/rqt.jpg" class="img-fluid rounded z-depth-1" %}
+### System (Rqt Graph on ROS)
+<div class="col-sm mt-3 mt-md-0" style="max-width: 560px; margin: auto;">
+    {% include figure.html path="assets/img/rqt.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
 That figure shows the system diagram of this project.
