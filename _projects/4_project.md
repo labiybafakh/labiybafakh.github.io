@@ -16,7 +16,7 @@ edges of the path. These balls serve as boundary markers for autonomous navigati
 visual servoing, the robot can navigate to stay on the track.
 
 
-<div class="col-lg mt-3 mt-md-0">
-    {% include video.html path="https://www.youtube.com/embed/57s4wn9aknU?si=jgRLwl_JJ6G0H04b" class="img-fluid rounded z-depth-0" %}
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/kkctbn.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 

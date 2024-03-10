@@ -19,6 +19,6 @@ data distribution is handled by using ROS
 
 A video during training can be accessed [here](https://youtu.be/HdMWXK-xAiU?si=u5HnHmhSTM-k22lH) . A repository of this project is [here](https://github.com/labiybafakh/WRS2023)
 
-<div class="col-lg mt-3 mt-md-0">
-    {% include video.html path="https://www.youtube.com/embed/HdMWXK-xAiU?si=qchUIPBMyv5VT3r5" class="img-fluid rounded z-depth-0" %}
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/wrs.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>

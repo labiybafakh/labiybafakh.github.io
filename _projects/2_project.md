@@ -23,22 +23,16 @@ That figure shows the robot that I worked on. By using rotary encoder feedback, 
 Some videos below show the performance and upgrade of robot developed from Regional, National, and Asia-Pasific competiion.
 
 ### Regional Competition of Indonesia Robocon
-<div class="row mt-3">
-    <div class="col-12 col-lg-6 mt-3 mt-md-0" style="max-width: 560px; margin: auto;">
-            {% include video.html path="https://www.youtube.com/embed/hRgKo8AS99A?si=CrBEew5nsAjCOT3U" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/robocon-regional.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
 ### National Competition of Indonesia Robocon
-<div class="row mt-3">
-    <div class="col-12 col-lg-6 mt-3 mt-md-0" style="max-width: 560px !important; margin: auto;">
-            {% include video.html path="https://www.youtube.com/embed/Gdd02YA4iVU?si=PQgRZfpojt-UgbMd" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/robocon-national.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
 ### ABU Robocon 2016
-<div class="row mt-3">
-    <div class="col-12 col-lg-6 mt-3 mt-md-0" style="max-width: 560px !important; margin: auto;">
-            {% include video.html path="https://www.youtube.com/embed/hlAESUCWL_Y?si=53hWgJ2ngytJbNc_" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/abu-robocon.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>

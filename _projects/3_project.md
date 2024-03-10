@@ -14,13 +14,11 @@ tracking and velocity of the robot. By using a given path and gave a force to th
 back to its right path smoothly. The performance is better after the fuzzy was implemented because it can reduce
 the overshoot. Robotics Operating System(ROS) utilize the robustness of system through the data distribution.
 
-[Robot Navigation Video](https://www.youtube.com/watch?v=8nfgbyg1_oo)
-
-A repository of this project is [here](https://github.com/labiybafakh/FuzzyBicyclePathTracking)
+This project repository is [here](https://github.com/labiybafakh/FuzzyBicyclePathTracking)
 
 ### Navigation Video
-<div class="col-sm mt-3 mt-md-0" style="max-width: 320px; margin:auto;">
-    {% include video.html path="https://www.youtube.com/embed/8nfgbyg1_oo?si=xo37-fjSHm0PutoW&amp;controls=0" class="img-fluid rounded z-depth-0" %}
+<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
+    {% include video.html path="assets/video/bachelor-thesis.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
 ### System (Rqt Graph on ROS)
