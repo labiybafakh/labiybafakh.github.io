@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Labiyb!
 
-I am a final-year PhD student at Department of Mechanical Systems Engineering of Tokyo Metropolitan University, advised by Professor Naoyuki Takesue. My research interest is developing and enhancing capability of an ornithopter mimicking a real bird. During my PhD, I participated and got the 3rd place on World Robot Summit @IFAC 2023 on Customer Interacton Task using a service robot. 
+I am a final-year PhD student at Department of Mechanical Systems Engineering of Tokyo Metropolitan University, advised by Professor Naoyuki Takesue. My research interest is developing and enhancing capability of an ornithopter mimicking a real bird. Currently, I am FS-SPRING research fellow. From January 2022 until October 2023, I worked as a part-time Research and Development Engineer at Shanghai Micro Ears Ingeniousness Intelligent Technology Co., Ltd. During my PhD, I participated and got the 3rd place on World Robot Summit @IFAC 2023 on Customer Interacton Task using a service robot. 
 
 In 2018, I graduated from Electronic Engineering Polytechnic Institute of Surabaya/Politeknik Elektronika Negeri Surabaya with Bachelor of Engineering in Computer Engineering. During my bachelor, I participated on some competitions to shape my skills in robotics. I won Indonesian Robocon 2016 and 2nd Runner-up on ABU Robocon 2016. My undergraduate thesis is navigation on omnidirectional mobile robot implemented on a soccer robot.
 

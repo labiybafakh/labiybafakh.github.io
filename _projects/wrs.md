@@ -16,8 +16,18 @@ the queue, another camera is also placed on the environment. A lidar is also mou
 localization and mapping(SLAM). It is used for robot to navigate to the desired position and avoid the obstacle. The
 data distribution is handled by using ROS
 
+This project's repository is [here](https://github.com/labiybafakh/WRS2023)
 
-A video during training can be accessed [here](https://youtu.be/HdMWXK-xAiU?si=u5HnHmhSTM-k22lH) . A repository of this project is [here](https://github.com/labiybafakh/WRS2023)
+Contribution:
+1. Lead programmer team.
+2. Integrate several sub-system to perform autonomous task.
+3. Debug and optimize robot performance.
+
+Skills: Python, ROS, PyTorch, Git.
+
+<div style="text-align: center;">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/HdMWXK-xAiU?si=k0-4T3JyAXkzPr76" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
     {% include video.html path="assets/video/wrs.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}

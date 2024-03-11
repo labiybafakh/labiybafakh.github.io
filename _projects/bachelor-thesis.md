@@ -16,10 +16,25 @@ the overshoot. Robotics Operating System(ROS) utilize the robustness of system t
 
 This project repository is [here](https://github.com/labiybafakh/FuzzyBicyclePathTracking)
 
-### Navigation Video
-<div class="col-sm mt-3 mt-md-0 rotate-video" style="max-width: 320px;">
-    {% include video.html path="assets/video/bachelor-thesis.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+Contribution:
+1. Develop embedded system to measure robot position or odometry by given rotary encoder data and Inertial data.
+2. Develop embedded system to control motor speed by using PID controller.
+3. Develop robot's system to communicate between low-level and high-level controller.
+4. Develop robot navigation using the proposed bicycle path tracking and compare with pure pursuit.
+5. Improve the performance of bicycle path tracking by implementing fuzzy controller.
+
+Skills: C, C++, STM32, Arduino, Embedded System, ROS, PID and Fuzzy Controller, Qt.
+
+### Simulation
+<div class="col-sm mt-3 mt-md-0" style="max-width: 560px; margin: auto;">
+    {% include figure.html path="assets/img/simulasi.png" class="img-fluid rounded z-depth-1" %}
 </div>
+
+### Navigation Video
+<div style="text-align: center;">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/8nfgbyg1_oo?si=s4w6I5L58vYFpDCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ### System (Rqt Graph on ROS)
 <div class="col-sm mt-3 mt-md-0" style="max-width: 560px; margin: auto;">
