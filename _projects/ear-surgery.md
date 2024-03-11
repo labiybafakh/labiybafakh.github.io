@@ -3,7 +3,7 @@ layout: page
 title: Ear Surgery Device
 # description: another without an image
 img: assets/img/ear.jpeg
-importance: 1
+importance: 2
 category: work
 ---
 

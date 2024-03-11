@@ -3,7 +3,7 @@ layout: page
 title: Unmanned Surface Vehicle(USV)
 # description: another without an image
 img: assets/img/kkctbn.png
-importance: 3
+importance: 6
 category: work
 ---
 

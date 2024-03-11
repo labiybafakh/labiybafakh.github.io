@@ -4,7 +4,7 @@ title: Navigation of Omnidirectional Mobile Robot(Robot Soccer)
 # description: a project that redirects to another website
 img: assets/img/navigation.png
 # redirect: https://unsplash.com
-importance: 3
+importance: 5
 category: work
 ---
 
