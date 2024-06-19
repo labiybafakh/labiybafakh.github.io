@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-5-16
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Demonstration of self-takeoff flapping-wing aerial vehicle named OrnibiBot at ICRA2024

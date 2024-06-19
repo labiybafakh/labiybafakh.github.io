@@ -35,32 +35,24 @@
           contents: Embedded System, Robot System Control, Computer Vision, Intelligent System, Robotic and Automation, and Real Time Operating System.
         #   -
 
-- title: Skills
+- title: Professional Experiences
   type: time_table
   contents:
-    - title: Technical Skills
-      description: CAD, CAM, EDA, C, C++, Python(PyTorch), Rust, ROS1/ROS2, CI (Github Actions)
-    - title: Languages
-      description: Indonesian, English
-
-- title: Experience
-  type: time_table
-  contents:
-    - title:       FS-SPRING Research Fellow
-      institution: Tokyo Metropolitan University
-      year: 2023 Apr - now
+    - title:  Robotics Engineer(Part-time)
+      institution: QibiTech, Inc.
+      year: 2024 Apr - now
+      description:
+        - Working on robot systems design.
+        - Migrating ROS1 packages to ROS2.
 
     - title: Research and Development Engineer (Part-Time)
       institution: Shanghai Micro Ears Ingeniousness Intelligent Technology Co., Ltd
-      year: 2022 - 2023
+      year: 2022 - 2024
       description:
         - Design and manufacture some components of the robot.
         - Build the software for the embedded system.
         - Build and optimize serial communication and vizualise the data on GUI in 200Hz sampling.
-
-    - title: Research Assistant (Part-Time)
-      institution: Tokyo Metropolitan University
-      year: 2021 - 2023
+        - Develop and integrate system with manipulator robot (myCobot 320).
 
     - title: Freelance Robotics and Embedded System Engineer
       # institution: Karl-Ferdinand University, Prague, Czechoslovakia
@@ -70,6 +62,26 @@
         - Built a small-device for weighting system for gas company.
         - Built embedded system system for pull and press machine including monitoring of the pressure.
 
+- title: Skills
+  type: time_table
+  contents:
+    - title: Technical Skills
+      description: CAD, CAM, EDA, C, C++, Python(PyTorch), Rust, ROS1/ROS2, CI (Github Actions)
+    - title: Languages
+      description: Indonesian, English
+
+
+- title: Academic Experiences
+  type: time_table
+  contents:
+    - title: AR Research Fellow
+      institution: Tokyo Metropolitan University
+      year: 2023 Apr - now
+      description: In the previous, it was FS-SPRING, but the program is changed to Arena Reframing Research Fellow.
+
+    - title: Research Assistant (Part-Time)
+      institution: Tokyo Metropolitan University
+      year: 2021 - 2023
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

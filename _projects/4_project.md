@@ -3,7 +3,7 @@ layout: page
 title: ABU Robocon 2016
 # description: a project with a background image and giscus comments
 img: assets/img/robocon.jpg
-importance: 3
+importance: 5
 category: work
 # giscus_comments: true
 ---
