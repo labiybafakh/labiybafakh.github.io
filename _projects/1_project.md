@@ -31,6 +31,7 @@ Contribution:
 5. Improve the performance serial communication by optimizing the packet data so it could work in above 500Hz.
 6. Integrate force sensor and motion caption camera to support its analysis.
 7. Test the performance native system using shared-memory and compare with ROS2 performance.
+8. Currently, developing robot vision system and control to perform obstacle avoidance using point cloud data
 
 Skills: Linux, C, C++, Python, ROS1/ROS2, CAD, CAM, EDA, Serial Communication, Git.
 
