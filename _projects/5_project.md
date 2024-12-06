@@ -3,8 +3,8 @@ layout: page
 title: World Robot Summit 2023 @IFAC
 # description: a project with a background image
 img: assets/img/WRS2023.jpeg
-importance: 7
-category: work
+importance: 1
+category: Competition
 ---
 
 This project aims to handle some problems that can

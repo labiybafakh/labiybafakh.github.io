@@ -5,7 +5,7 @@ permalink: /projects/
 description: These are the projects that I have done since 10 years ago in robotics field, espacially mobile robot. Some videos are included for each project. If you are interested, you can check it by clicking the project name so it will redirect to the detail for each project. Let me know if you have an interest for collaboration.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Academic, Work, Competition]
 horizontal: false
 ---
 

@@ -4,8 +4,8 @@ title: Navigation of Omnidirectional Mobile Robot(Robot Soccer)
 # description: a project that redirects to another website
 img: assets/img/navigation.png
 # redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 4
+category: Academic
 ---
 
 This bachelor thesis project is triggered by an idea to recover a navigation when there is an obstacle or hits another robot. A robot simulation(V-

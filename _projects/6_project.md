@@ -3,8 +3,8 @@ layout: page
 title: Unmanned Surface Vehicle(USV)
 # description: another without an image
 img: assets/img/kkctbn.png
-importance: 6
-category: work
+importance: 4
+category: Competition
 ---
 
 This project worked with an unmanned water vehicle

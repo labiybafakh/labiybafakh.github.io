@@ -2,9 +2,9 @@ github_users:
   - labiybafakh
 
 github_repos:
+  - labiybafakh/OrnibiBotObstacleAvoidance
   - labiybafakh/OrnibiBot
   - labiybafakh/OrnibiBotMicro
   - labiybafakh/WRS2023
   - labiybafakh/leptrino_force_torque_sensor
   - labiybafakh/FuzzyBicyclePathTracking
-  - labiybafakh/vectornav-ros
