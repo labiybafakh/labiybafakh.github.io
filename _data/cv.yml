@@ -42,8 +42,10 @@
       institution: QibiTech, Inc.
       year: 2024 Apr - now
       description:
-        - Working on robot systems design.
-        - Migrating ROS1 packages to ROS2.
+        - Developing ROS2 packages for manipulator including hardware interface (using position, velocity and effort controllers), actions and test.
+        - Developing robot description (URDF), visualization, and simulation on pybullet/gazebo.
+        - Improve the system integration between Kachaka AMR and HATS.
+        - Investigate the manipulability of a mobile manipulator robot using a Gazebo simulation.
 
     - title: Research and Development Engineer (Part-Time)
       institution: Shanghai Micro Ears Ingeniousness Intelligent Technology Co., Ltd
@@ -76,7 +78,7 @@
   contents:
     - title: AR Research Fellow
       institution: Tokyo Metropolitan University
-      year: 2023 Apr - now
+      year: 2023 Apr - 2024 Sept
       description: In the previous, it was FS-SPRING, but the program is changed to Arena Reframing Research Fellow.
 
     - title: Research Assistant (Part-Time)

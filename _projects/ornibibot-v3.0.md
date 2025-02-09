@@ -21,8 +21,12 @@ This study has been accepted for The 2025 IEEE/SICE International Symposium on S
 ### Author
 Muhammad Labiyb Afakh, Azhar Aulia Saputra, Hidaka Sato, and Kazuyoshi Wada, Naoyuki Takesue
 
-<div class="col-sm mt-3 mt-md-0" style="max-width: 1080px;">
+<!-- <div class="col-sm mt-3 mt-md-0" style="max-width: 1080px;">
     {% include video.html path="assets/video/payload-and-navigation.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+</div> -->
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qdk4ZPTl2Ac?si=fCiggt5moapAIqRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Abstract
