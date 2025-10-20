@@ -38,9 +38,14 @@
 - title: Professional Experiences
   type: time_table
   contents:
+    - title:  Computer Vision and Robot Motion Intern
+      institution: FingerVision, Inc.
+      year: 2025 Oct - Now
+      description:
+        - Developing robot motion based on 2D and 3D visual information.
     - title:  Robotics Engineer(Part-time)
       institution: QibiTech, Inc.
-      year: 2024 Apr - now
+      year: 2024 Apr - 2025 Mar
       description:
         - Developing ROS2 packages for manipulator including hardware interface (using position, velocity and effort controllers), actions and test.
         - Developing robot description (URDF), visualization, and simulation on pybullet/gazebo.

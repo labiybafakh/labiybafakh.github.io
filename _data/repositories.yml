@@ -3,8 +3,9 @@ github_users:
 
 github_repos:
   - labiybafakh/OrnibiBotObstacleAvoidance
-  - labiybafakh/OrnibiBot
-  - labiybafakh/OrnibiBotMicro
+  - labiybafakh/mujoco_rgbd_ros2
   - labiybafakh/WRS2023
+  - labiybafakh/leptrino_kikusi_setup
+  - labiybafakh/OrnibiBot
   - labiybafakh/leptrino_force_torque_sensor
   - labiybafakh/FuzzyBicyclePathTracking
