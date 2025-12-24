@@ -26,7 +26,7 @@ Muhammad Labiyb Afakh, Azhar Aulia Saputra, Hidaka Sato, and Kazuyoshi Wada, Nao
 </div> -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qdk4ZPTl2Ac?si=fCiggt5moapAIqRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FzHgHGOGEcU?si=Hdl8OR2obr795IRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Abstract
