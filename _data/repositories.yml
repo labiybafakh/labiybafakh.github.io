@@ -2,6 +2,7 @@ github_users:
   - labiybafakh
 
 github_repos:
+  - labiybafakh/sim2sim_leg_unitree
   - labiybafakh/OrnibiBotObstacleAvoidance
   - labiybafakh/mujoco_rgbd_ros2
   - labiybafakh/WRS2023

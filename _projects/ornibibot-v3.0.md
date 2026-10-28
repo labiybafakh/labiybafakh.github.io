@@ -16,10 +16,10 @@ related_publications: no
 }
 </style>
 
-This study has been accepted for The 2025 IEEE/SICE International Symposium on System Integration. It will be presented on January in Munich, German.
+This work is described in "Servo-Driven Flapping-Wing Aerial Vehicle (FWAV): Payload Capacity and Navigation Performance," published at the 2025 IEEE/SICE International Symposium on System Integration (SII) in Munich, Germany.
 
 ### Author
-Muhammad Labiyb Afakh, Azhar Aulia Saputra, Hidaka Sato, and Kazuyoshi Wada, Naoyuki Takesue
+Muhammad Labiyb Afakh, Azhar Aulia Saputra, Hidaka Sato, Kazuyoshi Wada, and Naoyuki Takesue.
 
 <!-- <div class="col-sm mt-3 mt-md-0" style="max-width: 1080px;">
     {% include video.html path="assets/video/payload-and-navigation.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
@@ -30,14 +30,16 @@ Muhammad Labiyb Afakh, Azhar Aulia Saputra, Hidaka Sato, and Kazuyoshi Wada, Nao
 </div>
 
 ## Abstract
-In the current situation, environmental monitoring and disaster mitigation become a concern. There are many developed robot in different type for
-enviromental issue, but some robot has limitation on coverage area. To solve that problem, several researcher also developed FWAV that has
-potential on environment monitoring application. This study aims to enhance the potential of Flapping Wing Aerial Vehicles (FWAVs) for wider implementation in these fields. While most FWAVs traditionally use a single actuator, leading to manufacturing and design complexity, recent trends show a shift towards servo-driven mechanisms due to their enhanced capabilities. We achieve modularity through a design that allows for easy assembly and disassembly of main wings, tail, and hardware components. Performance enhancements are realized through the implementation of a square wave pattern as the input signal for flapping motion, which outperforms the common sinusoidal wave pattern as input signal. By adjusting the center of gravity and flapping parameters, we demonstrate the FWAV's potential to carry payloads of up to 100 grams which is almost 28\% of its weight, suitable for small-scale environmental monitoring missions. Additionally, we implement a collision avoidance system to enhance the FWAV's ability to navigate safely in complex environments. 
+This project investigates how servo-driven flapping-wing aerial vehicles can support environmental monitoring. The robot uses a modular design that allows its wings, tail, and hardware components to be assembled and replaced easily.
+
+We evaluated flapping inputs and found that a square-wave pattern improved performance compared with a sinusoidal pattern. By adjusting the center of gravity and flapping parameters, the robot carried a payload of up to 100 g, approximately 28% of its own weight.
+
+We also implemented a lightweight onboard collision avoidance system to support navigation around obstacles.
 
 ## Contribution
-1. Modular and durable design to make it easy to carry and reduces the maintenance complexity .
-2. Fly with payload.
-3. A low-cost and lightweight obstacle avoidance.
+1. Developed a modular robot design to simplify transport and maintenance.
+2. Improved payload capacity through mechanical and flapping-parameter optimization.
+3. Implemented a low-cost, lightweight onboard collision avoidance system.
 
 <!-- Skills: Linux, C, C++, Python, ROS1/ROS2, CAD, CAM, EDA, Serial Communication, Git. -->
 
@@ -51,4 +53,4 @@ potential on environment monitoring application. This study aims to enhance the 
     {% include figure.html path="assets/img/robot-sii2025.png" class="img-fluid rounded z-depth-1" %}
 </div>
 
-Repositories of this project is [Ornibibot Obstalce Avoidance](https://github.com/labiybafakh/OrnibiBotObstacleAvoidance) 
+Source code is available in the [OrnibiBot Obstacle Avoidance repository](https://github.com/labiybafakh/OrnibiBotObstacleAvoidance).

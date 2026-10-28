@@ -21,11 +21,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Labiyb!
 
-I am a final-year PhD student in Mechanical Systems Engineering at Tokyo Metropolitan University, advised by Professor Naoyuki Takesue. My research focuses on developing autonomous ornithopters that mimic bird flight capabilities. Currently, I serve as a Research Assistant while also working as a part-time robotics engineer at QibiTech Inc., where I contribute to industrial robotics solutions.
-My journey in robotics began at Electronic Engineering Polytechnic Institute of Surabaya, where I earned my Bachelor's in Computer Engineering (2018). During this time, I developed strong foundations in embedded systems and robotics through competitive robotics, winning the Indonesian Robocon 2016 and achieving 2nd Runner-up at ABU Robocon 2016. My undergraduate work focused on navigation algorithms for omnidirectional mobile robots.
+I am a robotics engineer at Kawada Robotics, working on computer vision and humanoid robotics. I completed my doctorate in Mechanical Systems Engineering at Tokyo Metropolitan University in March 2026, advised by Professor Naoyuki Takesue. My research focused on servo-driven flapping-wing aerial robots, including flight control, payload capacity, and onboard collision avoidance.
 
-I completed my Master's in Mechanical Systems Engineering at Tokyo Metropolitan University (2021), where I developed flapping robots with tail control systems. Recent achievements include securing 3rd place in the Customer Interaction Task at World Robot Summit @IFAC 2023, where I led the programming team for autonomous service robot implementation.
+My experience spans manipulators, mobile robots, aerial robots, and unmanned surface vehicles. I develop complete robotic systems across mechanical design, electronics, embedded software, perception, planning, and control using C++, Python, and C. I build both ROS/ROS2-based and standalone systems without ROS, integrating microcontroller firmware, actuator interfaces, and sensor drivers with high-level software through shared memory and socket-based communication. My recent interest also includes robotic manipulation, computer vision, and learning-based locomotion.
 
-Throughout my academic and professional journey, I've developed experience in building complete robotic solutions from scratch - from mechanical design to system integration. I focus on embedded systems development, sensor integration, and autonomous navigation implementation utilizing both ROS and native approaches.
+Previously, I worked on ROS2 manipulator interfaces and system integration at QibiTech. During my internship at FingerVision, I worked on a UR3 evaluation platform with tactile sensing, vision-based object recognition and placement estimation, and imitation learning pipelines.
 
-I am passionate about creating innovative robotic solutions that can make meaningful contributions to society, particularly in the field of autonomous systems.
+My robotics journey began at the Electronics Engineering Polytechnic Institute of Surabaya, where I earned my bachelor's degree in Computer Engineering in 2018. I later completed my master's degree at Tokyo Metropolitan University in 2021. Along the way, I contributed to teams that won the Indonesian Robocon 2016, placed third at ABU Robocon 2016, and placed third in the Customer Interaction Task at World Robot Summit @IFAC 2023.
+
+I enjoy bringing hardware and software together to build robots that work reliably in real environments.

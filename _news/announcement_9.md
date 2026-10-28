@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-A co-authoted paper entitled "Self-Standing Take-Off of Servo Driven Flapping Robot Using Tail" will be presented at IROS2025
+Our co-authored paper, "Self-Standing Take-Off of Servo Driven Flapping Robot Using Tail," was accepted to IROS 2025.

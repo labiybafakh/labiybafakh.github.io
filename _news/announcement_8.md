@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Start working as Computer Vision and Robot Motion Intern at FingerVision, Inc.
+Started as a Computer Vision and Robot Motion Intern at FingerVision, Inc.

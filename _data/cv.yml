@@ -8,27 +8,28 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: Indonesian, English, Japanese(Beginner)
+      value: Indonesian (Native), English (Fluent), Japanese (Beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student
+    - title: Doctor of Mechanical Systems Engineering
       institution: Tokyo Metropolitan University
-      year: 2021 Sept - now
+      year: March 2026
       description:
         - Supervised by Professor Naoyuki Takesue.
+        - Research on servo-driven flapping-wing aerial robots.
 
     - title: Master of Engineering
       institution: Tokyo Metropolitan University
-      year: 2019 - 2021
+      year: October 2019 - September 2021
       description:
         - Supervised by Professor Naoyuki Takesue.
         - title: Relevant Courses
           contents: Robotic System Design, Intelligent Robot, Ubiquitous Robotics.
 
-    - title: Bachlor of Computer Engineering  
-      institution: Electronic Engineering Polytechnic Institute of Surabaya
+    - title: Bachelor of Computer Engineering
+      institution: Electronics Engineering Polytechnic Institute of Surabaya
       year: 2014 - 2018
       description:
         - title: Relevant Courses
@@ -38,57 +39,77 @@
 - title: Professional Experiences
   type: time_table
   contents:
-    - title:  Computer Vision and Robot Motion Intern
+    - title: Computer Vision and Robot Engineer
+      institution: Kawada Robotics
+      year: June 2026 - Present
+      description:
+        - Evaluate and develop features for computer vision systems.
+        - Work on humanoid robotics.
+
+    - title: Computer Vision and Robot Motion Intern
       institution: FingerVision, Inc.
-      year: 2025 Oct - Now
+      year: October 2025 - March 2026
       description:
-        - Developing robot motion based on 2D and 3D visual information.
-    - title:  Robotics Engineer(Part-time)
-      institution: QibiTech, Inc.
-      year: 2024 Apr - 2025 Mar
+        - Built a UR3 evaluation platform integrating FingerVision tactile sensors with ROS-based MoveIt motion control.
+        - Benchmarked and improved object detection models for grasped-object classification and placement pose estimation.
+        - Collected and annotated datasets for model fine-tuning.
+        - Debugged data collection, training, and inference in a Dobot-based imitation learning pipeline.
+
+    - title: Robotics Engineer (Part-Time)
+      institution: QibiTech Inc.
+      year: April 2024 - March 2025
       description:
-        - Developing ROS2 packages for manipulator including hardware interface (using position, velocity and effort controllers), actions and test.
-        - Developing robot description (URDF), visualization, and simulation on pybullet/gazebo.
-        - Improve the system integration between Kachaka AMR and HATS.
-        - Investigate the manipulability of a mobile manipulator robot using a Gazebo simulation.
+        - Developed a ROS2 driver and MoveIt integration for the HR4C manipulator, including position, velocity, and effort control interfaces, action servers, and automated tests.
+        - Created robot descriptions and simulation environments in PyBullet and Gazebo.
+        - Debugged and improved integration between the Kachaka AMR and HATS.
+        - Evaluated mobile manipulator manipulability and navigation through simulation.
 
     - title: Research and Development Engineer (Part-Time)
       institution: Shanghai Micro Ears Ingeniousness Intelligent Technology Co., Ltd
-      year: 2022 - 2024
+      year: January 2022 - March 2024
       description:
-        - Design and manufacture some components of the robot.
-        - Build the software for the embedded system.
-        - Build and optimize serial communication and vizualise the data on GUI in 200Hz sampling.
-        - Develop and integrate system with manipulator robot (myCobot 320).
+        - Designed and manufactured robot components.
+        - Developed embedded control software and sensor data processing.
+        - Optimized serial communication to achieve 200 Hz sampling with real-time GUI visualization.
+        - Integrated the system with a myCobot 320 manipulator.
 
     - title: Freelance Robotics and Embedded System Engineer
       # institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 2018 - 2019
       description:
-        - Built an embedded system for solar tracker to move the solar panel by given position that sent from base-station.
-        - Built a small-device for weighting system for gas company.
-        - Built embedded system system for pull and press machine including monitoring of the pressure.
+        - Developed embedded control for a solar tracker receiving position commands from a base station.
+        - Built an embedded weighing device for a gas company.
+        - Developed embedded control and pressure monitoring for a pull-and-press machine.
 
 - title: Skills
   type: time_table
   contents:
     - title: Technical Skills
-      description: CAD, CAM, EDA, C, C++, Python(PyTorch), Rust, ROS1/ROS2, CI (Github Actions)
+      description: C++, Python, C; ROS/ROS2, MoveIt, SLAM and autonomous navigation; OpenCV, PyTorch, object detection and instance segmentation; embedded systems and real-time control; MuJoCo, IsaacSim, IsaacLab, PyBullet and Gazebo; Git, CI/CD, Docker and Linux; CAD, CAM and PCB design.
     - title: Languages
-      description: Indonesian, English
+      description: Indonesian (Native), English (Fluent), Japanese (Beginner)
 
 
 - title: Academic Experiences
   type: time_table
   contents:
+    - title: Research Assistant (Part-Time)
+      institution: Tokyo Metropolitan University
+      year: January 2025 - Present
+      description:
+        - Develop autonomous unmanned surface vehicle systems, including ROS2 migration and system integration.
+        - Develop a lightweight six-degree-of-freedom manipulator using 3D-printed components.
+        - Continue flapping-wing aerial vehicle research and system optimization.
+
     - title: AR Research Fellow
       institution: Tokyo Metropolitan University
-      year: 2023 Apr - 2024 Sept
-      description: In the previous, it was FS-SPRING, but the program is changed to Arena Reframing Research Fellow.
+      year: April 2023 - September 2024
+      description: Conducted research on flapping-wing aerial vehicle development and performance optimization.
 
     - title: Research Assistant (Part-Time)
       institution: Tokyo Metropolitan University
-      year: 2021 - 2023
+      year: October 2021 - March 2023
+      description: Developed the mechanical structure of a servo-driven flapping-wing robot and investigated its operating parameters.
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -101,14 +122,14 @@
   contents:
     - year: 2016
       items: 
-        - Second Runner Up of ABU Robocon 2016.
-        - Winner of ABU Robocon of Indonesian.
+        - Second Runner-up, ABU Robocon 2016.
+        - Winner, ABU Robocon Indonesia 2016.
     - year: 2019
       items: 
-        - Runner Up Toilet Cleaning Robot Category, World Robot Summit FSCS Trial Competition
+        - Runner-up, Toilet Cleaning Robot Category, World Robot Summit FCSC Trial Competition
     - year: 2023
       items:
-        - Second Runner-up Customer Interaction Task Category, World Robot Summit FCSC @IFAC
+        - Second Runner-up, Customer Interaction Task Category, World Robot Summit FCSC @IFAC
 
 # - title: Academic Interests
 #   type: nested_list
